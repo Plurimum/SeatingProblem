@@ -1,7 +1,7 @@
 # SeatingProblem
 
 Решение задачи о рассадке на языке Kotlin с использованием Jupyter Notebook с ядром Kotlin.
-Гайд на установку ядра котлина в ноутбук: https://github.com/Kotlin/kotlin-jupyter
+<p>Гайд на установку ядра котлина в ноутбук: https://github.com/Kotlin/kotlin-jupyter
 
 ## Условие задачи
 Есть n игроков, которые играют на протяжении m дней.
